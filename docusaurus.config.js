@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "My Site",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://preferred-theme-test.vercel.app",
   baseUrl: "/",
   favicon: "img/logo.svg",
 
@@ -48,7 +48,7 @@ const config = {
             label: "Docs",
           },
           {
-            href: "https://github.com/juliusmarminge/docu-prefers-theme-repro",
+            href: "https://github.com/juliusmarminge/preferred-theme-test",
             label: "GitHub",
             position: "right",
           },
